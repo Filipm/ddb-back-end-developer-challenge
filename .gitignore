@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DnDHitPointsWebApi/bin/Debug/net6.0
+/DnDHitPointsWebApi/obj
+/TestDnDHitPointsServices/obj
+/TestDnDHitPointsServices/bin/Debug/net6.0
+/DnDHitPointsServices/obj
+/DnDHitPointsServices/bin/Debug/net6.0
+/DnDHitPointsInfrastructure/bin/Debug/net6.0
+/DnDHitPointsInfrastructure/obj
