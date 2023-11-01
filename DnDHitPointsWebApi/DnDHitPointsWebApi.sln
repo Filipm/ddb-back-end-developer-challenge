@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnDHitPointsWebApi", "DnDHitPointsWebApi.csproj", "{C299D182-2FD1-4CE5-B86D-718EBC453805}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnDHitPointsServices", "..\DnDHitPointsServices\DnDHitPointsServices.csproj", "{C08AE125-CD9B-4581-9AC2-858E4A88FA02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDnDHitPointsServices", "..\TestDnDHitPointsServices\TestDnDHitPointsServices.csproj", "{9E79932B-8C40-4F56-8957-E5A7BE5C745C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnDHitPointsInfrastructure", "..\DnDHitPointsInfrastructure\DnDHitPointsInfrastructure.csproj", "{2365B4AA-3F84-4C1C-933C-21C2DA75C98D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{93475666-CFF0-4BAC-AA01-BB78B0A911F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\briv.json = ..\briv.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C299D182-2FD1-4CE5-B86D-718EBC453805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C299D182-2FD1-4CE5-B86D-718EBC453805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C299D182-2FD1-4CE5-B86D-718EBC453805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C299D182-2FD1-4CE5-B86D-718EBC453805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08AE125-CD9B-4581-9AC2-858E4A88FA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08AE125-CD9B-4581-9AC2-858E4A88FA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08AE125-CD9B-4581-9AC2-858E4A88FA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08AE125-CD9B-4581-9AC2-858E4A88FA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E79932B-8C40-4F56-8957-E5A7BE5C745C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E79932B-8C40-4F56-8957-E5A7BE5C745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E79932B-8C40-4F56-8957-E5A7BE5C745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E79932B-8C40-4F56-8957-E5A7BE5C745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2365B4AA-3F84-4C1C-933C-21C2DA75C98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2365B4AA-3F84-4C1C-933C-21C2DA75C98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2365B4AA-3F84-4C1C-933C-21C2DA75C98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2365B4AA-3F84-4C1C-933C-21C2DA75C98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A79481-E480-4C38-889E-66DF8DE6BEC2}
+	EndGlobalSection
+EndGlobal
